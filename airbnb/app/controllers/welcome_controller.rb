@@ -1,5 +1,5 @@
 class WelcomeController < ApplicationController
   def index
-    @msg = "kaka.toan"
+    @msg = "Pickachu"
   end
 end
