@@ -48,3 +48,5 @@ group :development, :test do
 end
 
 gem 'toastr-rails'
+
+gem 'figaro'
