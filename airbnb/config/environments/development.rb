@@ -51,4 +51,6 @@ Rails.application.configure do
     user_name: ENV['GMAIL_EMAIL'],
     password: ENV['GMAIL_PASSWORD']
   }
+
+  config.force_ssl = true
 end
